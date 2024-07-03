@@ -16,6 +16,12 @@ import com.example.demo.entity.User;
 import com.example.demo.service.UserService;
 
 
+/**
+ * Controllerクラス.
+ * 
+ * @author niinataichi
+ *
+ */
 @Controller
 @RequestMapping("/users")
 public class UserController {

@@ -7,6 +7,12 @@ import org.apache.ibatis.annotations.Param;
 
 import com.example.demo.entity.User;
 
+/**
+ * Mapperクラス.
+ * 
+ * @author niinataichi
+ *
+ */
 @Mapper
 public interface UserMapper {
 	

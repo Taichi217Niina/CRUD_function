@@ -9,8 +9,7 @@ import com.example.demo.entity.User;
 import com.example.demo.mapper.UserMapper;
 
 /**
- * Sreviveクラス.
- * 基本的にControllerとRepositoryの仲介役を担当
+ * Serviceクラス.
  * 
  * @author niinataichi
  *
